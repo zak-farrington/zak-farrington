@@ -1,6 +1,6 @@
 ### Hi there, I'm Zak 👋
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zak-farrington)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zakfarrington)
 
 ## **I'm a Full Stack Software Engineer with 15 YOE.**
 - 🏢 **In my professional role** I am leading technical projects, enhancing software quality, coordinating, and thriving in challenges.
