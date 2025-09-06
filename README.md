@@ -2,11 +2,10 @@
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zakfarrington)
 
-## **I'm a Full Stack Software Engineer with 15 YOE.**
+## **I'm a Full Stack Software Engineer with 15+ YOE.**
 - 🏢 **In my professional role:** I am leading technical projects, enhancing software quality, coordinating, and thriving in challenges.
-- 🎯 **Out-of-office:** I am currently creating projects that showcase my capabilities and recent experience.
-- 🌱 **I'm deepening my knowledge in:** software architecture and system design, and exploring Azure's cloud services *(PaaS & IaaS)*.
-- 🧘 **Beyond my technical pursuits:** I enjoy practicing meditation and an ongoing exploration of subjective consciousness.
+- 🌱 **Out-of-office:** I'm pursuing AWS-SAA-C03 and DVA-C02 certifications, and learning Java + Spring.
+- 🧘 **Beyond my technical pursuits:** I enjoy practicing insight meditation, staying active and PC gaming with my wife.
 - ⚡ **Fun fact**: I've added _"old-school-cool"_ repositories *(C++ & MASM32)* for projects I wrote over 20 years ago, at age 15!
 
 <!--
