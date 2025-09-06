@@ -4,7 +4,7 @@
 
 ## **I'm a Full Stack Software Engineer with 15+ YOE.**
 - 🏢 **In my professional role:** I am leading technical projects, enhancing software quality, coordinating, and thriving in challenges.
-- 🌱 **Out-of-office:** I'm pursuing AWS-SAA-C03 and DVA-C02 certifications, and learning Java + Spring.
+- 🌱 **Out-of-office:** I'm pursuing AWS SAA-C03 and DVA-C02 certifications, and learning Java + Spring.
 - 🧘 **Beyond my technical pursuits:** I enjoy practicing insight meditation, staying active and PC gaming with my wife.
 - ⚡ **Fun fact**: I've added _"old-school-cool"_ repositories *(C++ & MASM32)* for projects I wrote over 20 years ago, at age 15!
 
